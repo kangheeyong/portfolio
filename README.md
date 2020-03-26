@@ -1,6 +1,6 @@
 # portfolio
 
-
+- 파란색 글씨를 클릭하시면 git repository로 가실 수 있습니다.
 
 
 ## [toy-personal-recommendation-system](https://github.com/kangheeyong/PROJECT-personal-recommendation-system-demo)
