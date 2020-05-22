@@ -9,6 +9,22 @@
 - 요약
   - 기존 분류 모델은 분류할 데이터가 학습 데이터셋에 속한 데이터일 경우에만 분류가 가능하다. 여기서 문제는 학습 데이터셋에 속하지 않은 데이터가 들어와도 기존 데이터셋에 속한 카테고리로 강제로 분류가 된다는 것이다. 이를 해결하기 위해서 [Fault Detection Project for OES](https://github.com/kangheeyong/2018-1-Deep-Learing-pc1/tree/master/2018-2/experiment_anoGANs_2)에서 연구한 anoGANs 적용한 시스템을 개발한다.
 
+
+## [toy-async-web-server](https://github.com/kangheeyong/PROJECT-async-web-server)
+- 프로젝트명 : toy async web server 개발
+- 기간 : 2020.5
+- 소속회사명 : 개인 프로젝트
+- 주요사용기술 : 개발(개인), 1인 / async web server 개발, 웹 풀스택, linux(Ubuntu 16.04), Python(3.7.0), sanic, Docker, pytest, HTML, JavaScript, jQuery
+- 요약
+  - 본 프로젝트는 async web server 개발하는 것입니다. 이 웹서버는 unicode 이름을 검색하면 unicode 값을 web을 통하여 보여주는 것이 목적입니다.(toy project라서 서버의 목적 자체는 의미 없습니다.) 백엔드에서 유니코드 이름 검색을 위한 인덱스를 만들고 웹에서 검색을 하면 이 인덱스를 통하여 값을 반환합니다. 마지막으로 이 서버는 도커를 통하여 배포할 수 있게 만들었습니다.
+  - 서버를 개발한 때 요구사항은 다음과 같습니다.
+    - 비동기 처리 구현
+    - 로컬 캐싱 구현
+    - 테스트 코드 작성
+    - 웹소켓을 이용한 스크롤 구현
+  
+    
+
 ## [toy-personal-recommendation-system](https://github.com/kangheeyong/PROJECT-personal-recommendation-system-demo)
 - 프로젝트명 : toy personal recommendation system 개발
 - 기간 : 2020.3
