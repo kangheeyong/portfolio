@@ -1,6 +1,7 @@
 # portfolio
 
 - 파란색 글씨를 클릭하시면 git repository로 가실 수 있습니다.
+- 이 프로젝트는 대학원이나 회사에서 한 내용이 아니라 개인적으로 진행한 프로젝트입니다.
 
 ## 확장 가능한 anomaly detection system
 - 프로젝트명 : 확장 가능한 anomaly detection system
