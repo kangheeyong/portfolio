@@ -21,7 +21,7 @@
 - 소속회사명 : 개인 프로젝트
 - 주요사용기술 : 개발(개인), 1인 / nvidia-docker, docker,linux(Ubuntu 18.04), Python(3.7), tensorflow(2.1), GPU(cuda 10.1), supervisor
 - 요약
-  - 본 프로젝트는 ML/DL 연구/개발 환경을 docker를 통해 관리하고, 쉽게 그 환경을 설치할 수 있게 만드는 것이 목표입니다. docker를 이용해 연구/개발 환경을 관리하면 단순히 git으로 코드를 관리하는 것보다 일관성 있는 연구 결과를 재현할 수 있고, 또한 실제 머신러닝 백엔드 서버를 개발을 할 경우 검증된 GPU 세팅과 ML/DL 라이브러리 설정이 docker에 있기 때문에 불필요한 시간을 줄일 수 있습니다. 
+  - 본 프로젝트는 ML/DL 연구/개발 환경을 docker를 통해 관리하고, 쉽게 그 환경을 설치할 수 있게 만드는 것이 목표입니다. docker를 이용해 연구/개발 환경을 관리하면 단순히 git으로 코드를 관리하는 것보다 일관성 있는 연구 결과를 재현할 수 있고, 또한 실제 머신러닝 백엔드 서버를 개발을 할 경우 검증된 GPU 세팅과 ML/DL 라이브러리가 설정된 docker가 있기 때문에 불필요한 시간을 줄일 수 있습니다. 
   
 
 ## (개발)[toy-async-web-server](https://github.com/kangheeyong/PROJECT-async-web-server)
