@@ -9,7 +9,20 @@
 - 아이디어 : https://github.com/kangheeyong/portfolio/issues/1
 - 요약
   - 기존 분류 모델은 분류할 데이터가 학습 데이터셋에 속한 데이터일 경우에만 분류가 가능하다. 여기서 문제는 학습 데이터셋에 속하지 않은 데이터가 들어와도 기존 데이터셋에 속한 카테고리로 강제로 분류가 된다는 것이다. 이를 해결하기 위해서 [Fault Detection Project for OES](https://github.com/kangheeyong/2018-1-Deep-Learing-pc1/tree/master/2018-2/experiment_anoGANs_2)에서 연구한 anoGANs 적용한 시스템을 개발한다.
+- 시스템 개발을 위한 사전 작업
+  - (개발)[PROJECT-ML-ENV-setting](https://github.com/kangheeyong/PROJECT-ML-ENV-setting) : 배포가능한 머신러닝 백엔드 서버 개발을 위한 사전 프로젝트
+  - (개발)[toy-async-web-server](https://github.com/kangheeyong/PROJECT-async-web-server) : 배포가능한 간단한 웹서버 개발을 위한 사전 프로젝트
+  - (개발)[toy-personal-recommendation-system](https://github.com/kangheeyong/PROJECT-personal-recommendation-system-demo) : MSA(Micro Service Architecture) 시스템 개발을 위한 사전 프로젝트
+  - (연구)[Fault Detection Project for OES](https://github.com/kangheeyong/2018-1-Deep-Learing-pc1/tree/master/2018-2/experiment_anoGANs_2) : 반도체 데이터가 아닌 이미지 데이터(좀 더 일반적인 데이터) 연구 결과 정리 중
 
+## (개발)[PROJECT-ML-ENV-setting](https://github.com/kangheeyong/PROJECT-ML-ENV-setting)
+- 프로젝트명 : ML/DL 연구/개발 환경 세팅
+- 기간 : 2020.5
+- 소속회사명 : 개인 프로젝트
+- 주요사용기술 : 개발(개인), 1인 / nvidia-docker, docker,linux(Ubuntu 18.04), Python(3.7), tensorflow(2.1), GPU(cuda 10.1), supervisor
+- 요약
+  - 본 프로젝트는 ML/DL 연구/개발 환경을 docker를 통해 관리하고, 쉽게 그 환경을 설치할 수 있게 만드는 것이 목표입니다. docker를 이용해 연구/개발 환경을 관리하면 단순히 git으로 코드를 관리하는 것보다 일관성 있는 연구 결과를 재현할 수 있고, 또한 실제 머신러닝 백엔드 서버를 개발을 할 경우 검증된 GPU 세팅과 ML/DL 라이브러리 설정이 docker에 있기 때문에 불필요한 시간을 줄일 수 있습니다. 
+  
 
 ## (개발)[toy-async-web-server](https://github.com/kangheeyong/PROJECT-async-web-server)
 - 프로젝트명 : toy async web server 개발
