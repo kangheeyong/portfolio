@@ -3,17 +3,7 @@
 - 파란색 글씨를 클릭하시면 git repository로 가실 수 있습니다.
 - 이 프로젝트는 대학원이나 회사에서 한 내용이 아니라 개인적으로 진행한 프로젝트입니다.
 
-## 확장 가능한 anomaly detection system
-- 프로젝트명 : 확장 가능한 anomaly detection system
-- 기간 : 예정
-- 아이디어 : https://github.com/kangheeyong/portfolio/issues/1
-- 요약
-  - 기존 분류 모델은 분류할 데이터가 학습 데이터셋에 속한 데이터일 경우에만 분류가 가능하다. 여기서 문제는 학습 데이터셋에 속하지 않은 데이터가 들어와도 기존 데이터셋에 속한 카테고리로 강제로 분류가 된다는 것이다. 이를 해결하기 위해서 [Fault Detection Project for OES](https://github.com/kangheeyong/2018-1-Deep-Learing-pc1/tree/master/2018-2/experiment_anoGANs_2)에서 연구한 anoGANs 적용한 시스템을 개발한다.
-- 시스템 개발을 위한 사전 작업
-  - (개발)[PROJECT-ML-ENV-setting](https://github.com/kangheeyong/PROJECT-ML-ENV-setting) : 배포가능한 머신러닝 백엔드 서버 개발을 위한 사전 프로젝트
-  - (개발)[toy-async-web-server](https://github.com/kangheeyong/PROJECT-async-web-server) : 배포가능한 간단한 웹서버 개발을 위한 사전 프로젝트
-  - (개발)[toy-personal-recommendation-system](https://github.com/kangheeyong/PROJECT-personal-recommendation-system-demo) : MSA(Micro Service Architecture) 시스템 개발을 위한 사전 프로젝트
-  - (연구)[Fault Detection Project for OES](https://github.com/kangheeyong/2018-1-Deep-Learing-pc1/tree/master/2018-2/experiment_anoGANs_2) : 반도체 데이터가 아닌 이미지 데이터(좀 더 일반적인 데이터) 연구 결과 정리 중
+
 
 ## (개발)[PROJECT-ML-ENV-setting](https://github.com/kangheeyong/PROJECT-ML-ENV-setting)
 - 프로젝트명 : ML/DL 연구/개발 환경 세팅
