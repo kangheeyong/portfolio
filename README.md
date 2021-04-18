@@ -1,5 +1,19 @@
 # portfolio
 
+## 최신 포르폴리오
+
+simple example 위로 포트폴리오
+
+- [study-about-programming](https://github.com/kangheeyong/STUDY-about-programming)
+- [study-about-database](https://github.com/kangheeyong/STUDY-about-database)
+- [study-about-webserver](https://github.com/kangheeyong/STUDY-about-webserver)
+
+---
+
+## 취업 이전 포트폴리오 
+
+프로젝트 결과 위주 포트폴리오
+
 - 파란색 글씨를 클릭하시면 git repository로 가실 수 있습니다.
 - 이 프로젝트는 대학원이나 회사에서 한 내용이 아니라 개인적으로 진행한 프로젝트입니다.
 
